@@ -15,7 +15,8 @@
   "dependencies": {
     "gatsby": "^2.16.1",
     "react": "^16.10.2",
-    "react-dom": "^16.10.2"
+    "react-dom": "^16.10.2",
+    "gatsby-plugin-sharp": "^2.2.32"
   },
   "devDependencies": {
     "prettier": "^1.18.2"
