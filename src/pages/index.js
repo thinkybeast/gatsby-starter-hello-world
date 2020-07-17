@@ -1,3 +1,3 @@
 import React from "react"
 
-export default () => <div>Hello deploy.</div>
+export default () => <div>Hello PR comment.</div>
